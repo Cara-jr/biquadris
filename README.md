@@ -54,7 +54,7 @@ The game's architecture allows easy addition of new levels, commands, and effect
 
 1. **Clone this repository** to your local machine by running:
    ```bash
-   git clone https://github.com/your-username/biquadris.git
+   git clone https://github.com/Cara-jr/biquadris.git
    ```
 2. **Navigate to the project directory**:
    ```bash
