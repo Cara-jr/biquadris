@@ -1,5 +1,5 @@
 # Biquadris
-![Alt Text](demo.jpg)
+![Alt Text](demo.png)
 
 Biquadris is a strategic two-player block placement game implemented in C++ with both text-based and graphical interfaces. The game includes multiple levels of complexity and allows players to use special actions to influence their opponent’s gameplay. This project demonstrates the power of object-oriented programming principles, modular design, and the use of the MVC (Model-View-Controller) pattern.
 
@@ -11,8 +11,6 @@ Biquadris is a strategic two-player block placement game implemented in C++ with
 - [Game Design](#game-design)
 - [Installation](#installation)
 - [Running the Game Locally](#running-the-game-locally)
-- [Demo](#demo)
-- [Contributors](#contributors)
 - [License](#license)
 
 ---
@@ -37,9 +35,7 @@ The game follows an MVC (Model-View-Controller) pattern for separation of concer
 - **Controller**: Interprets player input and updates game state accordingly.
 
 ### UML Diagram
-
-![Alt Text](uml.jpg)
-*(Replace with actual UML diagram image)*
+![Alt Text](BiquadrisUML.png)
 
 ### Key Classes
 
@@ -88,13 +84,6 @@ Once the game is compiled, you can start playing Biquadris on your local machine
 
 3. **Exit the Game**:
    You can exit the game at any time by closing the window or using a command to quit.
-
-## Demo
-
-### Demo Video (in progress)
-[![Demo Video](https://user-images.githubusercontent.com/46653284/172592240-9857a266-c1cc-40a5-b9fd-acd7e422daa7.mov)](https://user-images.githubusercontent.com/46653284/172592240-9857a266-c1cc-40a5-b9fd-acd7e422daa7.mov)
-
-*(Replace the link with your uploaded video link from GitHub)*
 
 
 ## License
